@@ -14,7 +14,7 @@ O Next Level Week foi um bootcamp fornecido pela  [Rocketseat](https://rocketsea
 
 Trata-se se uma aplicação web com foto em reciclagem de diversos materiais distintos, com o ituito de uma entidade cadastrar seu ponto de colota, para que o usuário possa pesquisar, com base na cidade desejada, os pontos de coleta mais próximos.
 
-![ecoletaGif](https://user-images.githubusercontent.com/55996762/83961984-298a7f00-a86f-11ea-9855-8251d886d57a.gif)
+![ecoletaGif](https://i.pinimg.com/originals/d2/60/c2/d260c23b31c6eaa017cd20a2f86af829.gif)
 
 ## 👨‍💻 Tecnologias utilizadas
 
