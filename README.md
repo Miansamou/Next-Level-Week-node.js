@@ -2,7 +2,7 @@
 
   <h1>🚀 Next Level Week 💻</h1>
 
-  ![nlw](https://user-images.githubusercontent.com/55996762/83961529-643de880-a86a-11ea-8c47-0bd8a3c07721.png)
+  ![nlw](https://i.pinimg.com/564x/1b/91/91/1b919133d939ece08e9a3da9a481fbbb.jpg)
 
 </div>
 
